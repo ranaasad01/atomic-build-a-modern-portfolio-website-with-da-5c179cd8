@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "projects": "Proyectos",
+    "skills": "Habilidades",
+    "contact": "Contacto",
+    "cta": "Contratarme"
+  },
+  "footer": {
+    "tagline": "Creando experiencias digitales reflexivas con código limpio y diseño intencional.",
+    "navigation": "Navegación",
+    "connect": "Conectar",
+    "copyright": "© {year} {name}. Todos los derechos reservados.",
+    "backToTop": "Volver arriba"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Alex Mercer",
+    "role": "Desarrollador Creativo",
+    "description": "Creo experiencias digitales elegantes que viven en la intersección del diseño e ingeniería.",
+    "cta": "Ver Mi Trabajo",
+    "secondary": "Ponte en Contacto"
+  },
+  "about": {
+    "label": "Acerca de Mí",
+    "title": "Convirtiendo ideas en realidad",
+    "body1": "Soy un desarrollador full-stack apasionado por crear productos que sean hermosos y eficientes. Con más de 5 años de experiencia, he lanzado productos utilizados por miles de personas.",
+    "body2": "Cuando no estoy programando, me encontrarás explorando nuevos sistemas de diseño, contribuyendo a código abierto o experimentando con creative coding.",
+    "yearsLabel": "Años de Experiencia",
+    "projectsLabel": "Proyectos Lanzados",
+    "clientsLabel": "Clientes Satisfechos"
+  },
+  "projects": {
+    "label": "Trabajo Seleccionado",
+    "title": "Proyectos de los que estoy orgulloso",
+    "viewLive": "En Vivo",
+    "viewCode": "Código",
+    "viewAll": "Ver Todos los Proyectos"
+  },
+  "skills": {
+    "label": "Stack Tecnológico",
+    "title": "Herramientas con las que trabajo",
+    "description": "Un conjunto seleccionado de tecnologías que utilizo al construir aplicaciones web modernas."
+  },
+  "contact": {
+    "label": "Ponte en Contacto",
+    "title": "Construyamos algo juntos",
+    "description": "¿Tienes un proyecto en mente? Me encantaría saber de él. Envíame un mensaje y te responderé en 24 horas.",
+    "namePlaceholder": "Tu nombre",
+    "emailPlaceholder": "tu@email.com",
+    "messagePlaceholder": "Cuéntame sobre tu proyecto...",
+    "send": "Enviar Mensaje",
+    "sending": "Enviando...",
+    "successTitle": "Mensaje enviado.",
+    "successBody": "Gracias por ponerte en contacto. Me pondré en contacto pronto.",
+    "nameLabel": "Nombre",
+    "emailLabel": "Correo electrónico",
+    "messageLabel": "Mensaje"
+  }
+}

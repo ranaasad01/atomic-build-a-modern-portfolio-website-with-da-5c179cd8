@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact",
+    "cta": "Hire Me"
+  },
+  "footer": {
+    "tagline": "Building thoughtful digital experiences with clean code and intentional design.",
+    "navigation": "Navigation",
+    "connect": "Connect",
+    "copyright": "© {year} {name}. All rights reserved.",
+    "backToTop": "Back to top"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Alex Mercer",
+    "role": "Creative Developer",
+    "description": "I craft elegant digital experiences that live at the intersection of design and engineering.",
+    "cta": "View My Work",
+    "secondary": "Get In Touch"
+  },
+  "about": {
+    "label": "About Me",
+    "title": "Turning ideas into reality",
+    "body1": "I'm a full-stack developer with a passion for building products that are both beautiful and performant. With over 5 years of experience, I've shipped products used by thousands of people.",
+    "body2": "When I'm not coding, you'll find me exploring new design systems, contributing to open source, or experimenting with creative coding.",
+    "yearsLabel": "Years Experience",
+    "projectsLabel": "Projects Shipped",
+    "clientsLabel": "Happy Clients"
+  },
+  "projects": {
+    "label": "Selected Work",
+    "title": "Projects I'm proud of",
+    "viewLive": "Live",
+    "viewCode": "Code",
+    "viewAll": "View All Projects"
+  },
+  "skills": {
+    "label": "Tech Stack",
+    "title": "Tools I work with",
+    "description": "A curated set of technologies I reach for when building modern web applications."
+  },
+  "contact": {
+    "label": "Get In Touch",
+    "title": "Let's build something together",
+    "description": "Have a project in mind? I'd love to hear about it. Send me a message and I'll get back to you within 24 hours.",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "your@email.com",
+    "messagePlaceholder": "Tell me about your project...",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "successTitle": "Message sent.",
+    "successBody": "Thanks for reaching out. I'll be in touch soon.",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "messageLabel": "Message"
+  }
+}
